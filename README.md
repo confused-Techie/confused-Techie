@@ -96,10 +96,23 @@ I'm @confused-Techie, you can reach me at dev@lhbasics.com or use issues for a s
 
 <h3>Some of my Favourite Personal Repositories</h3>
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=confused-Techie&repo=Tabby&theme=dark&show_owner=true)](https://github.com/confused-Techie/Tabby) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=confused-Techie&repo=TabbyChromeExtension&theme=dark&show_owner=true)](https://github.com/confused-Techie/TabbyChromeExtension)
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=confused-Techie&repo=TabbyFirefoxExtension&theme=dark&show_owner=true)](https://github.com/confused-Techie/TabbyFirefoxExtension) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=confused-Techie&repo=TermPage&theme=dark&show_owner=true)](https://github.com/confused-Techie/TermPage)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=confused-Techie&repo=Tabby&theme=dark&show_owner=true)](https://github.com/confused-Techie/Tabby) &nbsp; 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=confused-Techie&repo=TermPage&theme=dark&show_owner=true)](https://github.com/confused-Techie/TermPage)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=confused-Techie&repo=Gaming-Gaggle&theme=dark&show_owner=true)](https://github.com/confused-Techie/Gaming-Gaggle) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=confused-Techie&repo=LoMiArch&theme=dark&show_owner=true)](https://github.com/confused-Techie/LoMiArch)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=confused-Techie&repo=GoPage&theme=dark&show_owner=true)](https://github.com/confused-Techie/GoPage) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=confused-Techie&repo=WinForms-PiholeTaskbarManager&theme=dark&show_owner=true)](https://github.com/confused-Techie/WinForms-PiholeTaskbarManager)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=confused-Techie&repo=LoMiArch-API&theme=dark&show_owner=true)](https://github.com/confused-Techie/LoMiArch-API) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=confused-Techie&repo=WinForms-PiholeTaskbarManager&theme=dark&show_owner=true)](https://github.com/confused-Techie/WinForms-PiholeTaskbarManager)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=confused-Techie&repo=Gaming-Gaggle&theme=dark&show_owner=true)](https://github.com/confused-Techie/Gaming-Gaggle) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=confused-Techie&repo=CompactIgnore&theme=dark&show_owner=true)](https://github.com/confused-Techie/CompactIgnore)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=confused-Techie&repo=LoMiArch-API&theme=dark&show_owner=true)](https://github.com/confused-Techie/LoMiArch-API) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=confused-Techie&repo=LoMiArch&theme=dark&show_owner=true)](https://github.com/confused-Techie/LoMiArch)
+
+<h4>Web Browser Extensions</h4>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=confused-Techie&repo=TabbyChromeExtension&theme=dark&show_owner=true)](https://github.com/confused-Techie/TabbyChromeExtension) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=confused-Techie&repo=TabbyFirefoxExtension&theme=dark&show_owner=true)](https://github.com/confused-Techie/TabbyFirefoxExtension)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=confused-Techie&repo=Social-Scrapper&theme=dark&show_owner=true)](https://github.com/confused-Techie/Social-Scrapper)
+
+<h4>Other Projects from me, I'm a maintaner of, or regularly contribute to</h4>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Syknapse&repo=Contribute-To-This-Project&theme=dark&show_owner=true)](https://github.com/Syknapse/Contribute-To-This-Project) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=confused-Techie&repo=WindowsTweaks&theme=dark&show_owner=true)](https://github.com/confused-Techie/WindowsTweaks)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=confused-Techie&repo=Bad_Encounters_Ruleset&theme=dark&show_owner=true)](https://github.com/confused-Techie/Bad_Encounters_Ruleset) &nbsp;
