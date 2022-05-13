@@ -1,8 +1,13 @@
 I'm @confused-Techie, you can reach me at dev@lhbasics.com or use issues for a specific repository.
 - I like to develop mostly with NodeJS using Electron, or NextJS, with a newfound love of Golang.
 - I have a passion for the Self Hosted Community and want to contribute more to it.
-- I'm currently working on <a href="https://github.com/confused-Techie/PieMark">PieMark</a> as my main focus.
-- Although I'm still providing active development on <a href="https://github.com/confused-Techie/GoPage">GoPage</a>, and <a href="https://github.com/confused-Techie/js_powerschool">JSPowerSchool</a>.
+- I'm currently working on <a href="https://github.com/confused-Techie/Quotle">Quotle</a> as my main focus. Which is available to play online at <a href="https://quotle.dev">Quotle.dev</a>
+- Actively Development Projects:
+  * <a href="https://github.com/confused-Techie/GoPage">GoPage</a>
+- My current project backlog:
+  * <a href="https://github.com/confused-Techie/PieMark">PieMark</a>
+  * <a href="https://github.com/confused-Techie/SimpleClassicBattleGames">SimpleClassicBattleGames</a>
+  * <a href="https://github.com/confused-Techie/js_powerschool">JSPowerSchool</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
