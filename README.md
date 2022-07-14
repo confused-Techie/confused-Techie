@@ -1,13 +1,12 @@
 I'm @confused-Techie, you can reach me at dev@lhbasics.com or use issues for a specific repository.
-- I like to develop mostly with NodeJS using Electron, or NextJS, with a newfound love of Golang.
+- I like to develop Server Side Applications, or CLI Applications, with a fondness for JavaScript and Golang.
 - I have a passion for the Self Hosted Community and want to contribute more to it.
-- I'm currently working on <a href="https://github.com/confused-Techie/Quotle">Quotle</a> as my main focus. Which is available to play online at <a href="https://quotle.dev">Quotle.dev</a>
-- Actively Development Projects:
-  * <a href="https://github.com/confused-Techie/GoPage">GoPage</a>
-- My current project backlog:
-  * <a href="https://github.com/confused-Techie/PieMark">PieMark</a>
-  * <a href="https://github.com/confused-Techie/SimpleClassicBattleGames">SimpleClassicBattleGames</a>
-  * <a href="https://github.com/confused-Techie/js_powerschool">JSPowerSchool</a>
+- If you'd like to visit some of my live projects:
+  * [Quotle](https://quotle.dev) - 'Guess the film based off Quotes!' [Source](https://github.com/confused-Techie/Quotle) !While no longer updated still available to play!
+- Active Projects / Temporarily Side lined Projects
+  * [Pulsar-Backend](https://github.com/confused-Techie/atom-community-server-backend-JS) - The Backend of the Atom forked, Pulsar-Edit.
+  * [SimpleClassicBattleGames](https://github.com/confused-Techie/SimpleClassicBattleGames) - Simple Cross Platform games with a retro feel.
+  * [QuickWebserverDocs](https://github.com/confused-Techie/quick-webserver-docs) - Quickly make JS API Docs in Markdown.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
@@ -93,6 +92,10 @@ I'm @confused-Techie, you can reach me at dev@lhbasics.com or use issues for a s
   </a>
 -->
 </p>
+
+<h3 align="left">Words to live by:</h3>
+* "Any sufficiently advanced technology is indistinguishable from magic" - Arthur C. Clarke
+* "Human progress isn’t measured by industry. It’s measured by the value you place on a life. An unimportant life. A life without privilege." - Steven Moffat's Doctor
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=confused-Techie&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
 
