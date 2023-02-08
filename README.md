@@ -103,6 +103,7 @@ I'm @confused-Techie, you can reach me at dev@lhbasics.com or use issues for a s
 * "Human progress isn’t measured by industry. It’s measured by the value you place on a life. An unimportant life. A life without privilege." - Steven Moffat's Doctor
 * "Maybe __insert_codebase_here__ is a giant ball of spaghetti, mistakes and technical debt?" - @DeeDeeG on Atom's APM
 
+[![confused-Techie's GitHub stats](https://stats.quine.sh/confused-Techie/github)](https://quine.sh)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=confused-Techie&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
 
