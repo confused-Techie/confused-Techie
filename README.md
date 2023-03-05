@@ -5,10 +5,10 @@ I'm @confused-Techie, you can reach me at dev@lhbasics.com or use issues for a s
 - If you'd like to visit some of my live projects:
   * [Quotle](https://quotle.dev) - 'Guess the film based off Quotes!' [Source](https://github.com/confused-Techie/Quotle) !While no longer updated still available to play!
   * [Pulsar Web Package Viewer](https://web.pulsar-edit.dev) - View Pulsar's Package Repository on the web! [Source](https://github.com/pulsar-edit/package-frontend)
-  * [Pulsar Package Repository API](https://api.pulsar-edit.dev) - Use Pular's Package Repository API [Source](https://github.com/confused-Techie/atom-backend)
+  * [Pulsar Package Repository API](https://api.pulsar-edit.dev) - Use Pular's Package Repository API [Source](https://github.com/pulsar-edit/package-backend)
 
 - Some of my favorite current-ish projects:
-  * [Pulsar-Backend](https://github.com/confused-Techie/atom-backend) - The Backend of the Atom forked, Pulsar-Edit.
+  * [Pulsar-Backend](https://github.com/pulsar-edit/package-backend) - The Backend of the Atom forked, Pulsar-Edit.
   * [SimpleClassicBattleGames](https://github.com/confused-Techie/SimpleClassicBattleGames) - Simple Cross Platform games with a retro feel.
   * [QuickWebserverDocs](https://github.com/confused-Techie/quick-webserver-docs) - Quickly make JS API Docs in Markdown.
 
