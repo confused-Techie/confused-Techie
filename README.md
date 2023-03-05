@@ -1,4 +1,4 @@
-I'm @confused-Techie, you can reach me at dev@lhbasics.com or use issues for a specific repository.
+I'm @confused-Techie, you can reach me at dev@lhbasics.com or admin@pulsar-edit.dev or use issues for a specific repository.
 - I'm one of the devs to start the [Pulsar Editor Project](https://github.com/pulsar-edit), focused mainly on the backend infrastructure.
 - I like to develop Server Side Applications, or CLI Applications, with a fondness for JavaScript and Golang.
 - I have a passion for the Self Hosted Community and want to contribute more to it.
