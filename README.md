@@ -53,3 +53,7 @@ I'm @confused-Techie, you can reach me at dev@lhbasics.com or admin@pulsar-edit.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Syknapse&repo=Contribute-To-This-Project&theme=dark&show_owner=true)](https://github.com/Syknapse/Contribute-To-This-Project) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=confused-Techie&repo=WindowsTweaks&theme=dark&show_owner=true)](https://github.com/confused-Techie/WindowsTweaks)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=confused-Techie&repo=Bad_Encounters_Ruleset&theme=dark&show_owner=true)](https://github.com/confused-Techie/Bad_Encounters_Ruleset) &nbsp;
+
+<h4>Pulsar Community Packages I'm a maintainer of</h4>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hedefalk&repo=atom-vue&theme=dark&show_owner=true)](https://github.com/hedefalk/atom-vue) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexrudd2&repo=linter-stylelint&theme=dark&show_owner=true)](https://github.com/alexrudd2/linter-styelint)
